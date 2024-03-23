@@ -2,7 +2,7 @@
 
 I'm **King Noran**, an aspiring fullstack developer who's currently studying web development! Learn with me!
 
-I'm friends with **[@jeru07](https://github.com/jeru7)**. He's better than me... for now >:)
+I'm friends with **[@jeru07](https://github.com/jeru7)** and **[dlanx6](https://github.com/dlanx6)**. Jeru is better than me... for now >:)
 
 ## Languages and tools I use:
 <br>
