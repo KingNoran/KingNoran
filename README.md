@@ -1,10 +1,16 @@
-# Hello There!
+![vs](https://github.com/KingNoran/KingNoran/assets/108130291/51ce0f46-7539-424b-a8c9-fbf6b093b0eb)# Hello There!
 
 I'm King Noran, an aspiring fullstack developer who's currently studying web development! Learn with me!
 
 I'm friends with [@jeru07](https://github.com/jeru7). He's better than me... for now >:)
 
 Languages and tools I use:
+<br>![U![react](https://github.com/KingNoran/KingNoran/assets/108130291/9ef8804c-1803-4bff-a3b2-60302801370c)![html5](https://github.com/KingNoran/KingNoran/assets/108130291/85fb7cb9-f50a-4c14-9795-390a8932f060)
+![js](https://github.com/KingNoran/KingNoran/assets/108130291/49180952-a1c8-47fd-b892-3ada94a84e6b)
+![tailwind](https://github.com/KingNoran/KingNoran/assets/108130291/2aea6779-9c50-41d3-97ec-965c394e98d4)
+![bootstrap](https://github.com/KingNoran/KingNoran/assets/108130291/2eda48ea-1fc0-4ff5-8b9d-e44af7d88ffa)
+ploading vs.svg…]()
+
 
 
 I've completed:
