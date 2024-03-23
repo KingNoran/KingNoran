@@ -1,4 +1,4 @@
-![vs](https://github.com/KingNoran/KingNoran/assets/108130291/51ce0f46-7539-424b-a8c9-fbf6b093b0eb)# Hello There!
+# Hello There!
 
 I'm King Noran, an aspiring fullstack developer who's currently studying web development! Learn with me!
 
@@ -11,6 +11,10 @@ Languages and tools I use:
 <img width="100" height="100" src="https://github.com/KingNoran/KingNoran/assets/108130291/49180952-a1c8-47fd-b892-3ada94a84e6b" >
 <img width="100" height="100" src="https://github.com/KingNoran/KingNoran/assets/108130291/2aea6779-9c50-41d3-97ec-965c394e98d4" >
 <img width="100" height="100" src="https://github.com/KingNoran/KingNoran/assets/108130291/2eda48ea-1fc0-4ff5-8b9d-e44af7d88ffa" >
+<img width="100" height="100" src="https://github.com/KingNoran/KingNoran/assets/108130291/51ce0f46-7539-424b-a8c9-fbf6b093b0eb" >
+
+
+
 
 
 
