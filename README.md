@@ -5,11 +5,12 @@ I'm King Noran, an aspiring fullstack developer who's currently studying web dev
 I'm friends with [@jeru07](https://github.com/jeru7). He's better than me... for now >:)
 
 Languages and tools I use:
-<br>![U![react](https://github.com/KingNoran/KingNoran/assets/108130291/9ef8804c-1803-4bff-a3b2-60302801370c)![html5](https://github.com/KingNoran/KingNoran/assets/108130291/85fb7cb9-f50a-4c14-9795-390a8932f060)
-![js](https://github.com/KingNoran/KingNoran/assets/108130291/49180952-a1c8-47fd-b892-3ada94a84e6b)
-![tailwind](https://github.com/KingNoran/KingNoran/assets/108130291/2aea6779-9c50-41d3-97ec-965c394e98d4)
-![bootstrap](https://github.com/KingNoran/KingNoran/assets/108130291/2eda48ea-1fc0-4ff5-8b9d-e44af7d88ffa)
-ploading vs.svg…]()
+<br>
+<img width="100" height="100" src="(https://github.com/KingNoran/KingNoran/assets/108130291/9ef8804c-1803-4bff-a3b2-60302801370c" >
+<img width="100" height="100" src="https://github.com/KingNoran/KingNoran/assets/108130291/85fb7cb9-f50a-4c14-9795-390a8932f060" >
+<img width="100" height="100" src="https://github.com/KingNoran/KingNoran/assets/108130291/49180952-a1c8-47fd-b892-3ada94a84e6b" >
+<img width="100" height="100" src="https://github.com/KingNoran/KingNoran/assets/108130291/2aea6779-9c50-41d3-97ec-965c394e98d4" >
+<img width="100" height="100" src="https://github.com/KingNoran/KingNoran/assets/108130291/2eda48ea-1fc0-4ff5-8b9d-e44af7d88ffa" >
 
 
 
