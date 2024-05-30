@@ -5,6 +5,10 @@ I'm **King Noran**, an aspiring fullstack developer who's currently studying web
 
 I'm friends with **[@jeru07](https://github.com/jeru7)** and **[@dlanx6](https://github.com/dlanx6)**. Jeru is better than me... for now >:)
 
+## Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingNoran)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Languages and tools I use:
 <br>
 <img width="100" height="100" src="https://github.com/KingNoran/KingNoran/assets/108130291/9ef8804c-1803-4bff-a3b2-60302801370c" >
