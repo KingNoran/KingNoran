@@ -5,11 +5,7 @@ I'm **King Noran**, an aspiring fullstack developer who's currently studying web
 
 I'm friends with **[@jeru07](https://github.com/jeru7)** and **[@dlanx6](https://github.com/dlanx6)**. Jeru is better than me... for now >:)
 
-<a href="https://app.daily.dev/nostra"><img src="https://api.daily.dev/devcards/v2/mgNlUrKYZ5oU5vPHa6Z5l.png?r=sh6&type=wide" width="652" alt="Nostra's Dev Card"/></a>
-
-## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingNoran&show_icons=true&theme=gruvbox)
+<a href="https://app.daily.dev/nostra"><img src="https://api.daily.dev/devcards/v2/mgNlUrKYZ5oU5vPHa6Z5l.png?r=sh6&type=wide" width="100%" alt="Nostra's Dev Card"/></a>
 
 ## Languages and tools I use:
 <br>
@@ -21,6 +17,10 @@ I'm friends with **[@jeru07](https://github.com/jeru7)** and **[@dlanx6](https:/
 <img width="100" height="100" src="https://github.com/KingNoran/KingNoran/assets/108130291/51ce0f46-7539-424b-a8c9-fbf6b093b0eb" >
 <img width="100" height="100" src="https://github.com/KingNoran/KingNoran/assets/108130291/fb0e3a4e-9bf9-430c-a334-8fe99daa89a7" >
 <img width="100" height="100" src="https://github.com/KingNoran/KingNoran/assets/108130291/2d8fb062-2ddd-4147-a0a4-d322532ea797" >
+
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingNoran&show_icons=true&theme=gruvbox)
 
 ## I've completed:
 
