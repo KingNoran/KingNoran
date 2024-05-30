@@ -7,7 +7,7 @@ I'm friends with **[@jeru07](https://github.com/jeru7)** and **[@dlanx6](https:/
 
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingNoran)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingNoran)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=gruvbox)
 
 ## Languages and tools I use:
 <br>
