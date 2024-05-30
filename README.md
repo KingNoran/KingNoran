@@ -3,6 +3,8 @@
 
 I'm **King Noran**, an aspiring fullstack developer who's currently studying web development! Learn with me!
 
+### Current Status: Trying to strengthen my fundamentals in Data Structures and Algorithms. I'm planning to look for an internship this June!
+
 I'm friends with **[@jeru07](https://github.com/jeru7)** and **[@dlanx6](https://github.com/dlanx6)**. Jeru is better than me... for now >:)
 
 <a href="https://app.daily.dev/nostra"><img src="https://api.daily.dev/devcards/v2/mgNlUrKYZ5oU5vPHa6Z5l.png?r=sh6&type=wide" width="100%" alt="Nostra's Dev Card"/></a>
