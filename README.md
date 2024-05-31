@@ -20,6 +20,8 @@ I'm friends with **[@jeru07](https://github.com/jeru7)** and **[@dlanx6](https:/
 <img width="50" height="50" src="https://github.com/KingNoran/KingNoran/assets/108130291/51ce0f46-7539-424b-a8c9-fbf6b093b0eb" >
 <img width="50" height="50" src="https://github.com/KingNoran/KingNoran/assets/108130291/fb0e3a4e-9bf9-430c-a334-8fe99daa89a7" >
 <img width="50" height="50" src="https://github.com/KingNoran/KingNoran/assets/108130291/2d8fb062-2ddd-4147-a0a4-d322532ea797" >
+<img width="50" height="50" src="https://github.com/KingNoran/KingNoran/assets/108130291/02797795-cac7-44fe-85fd-33af756b0f93" >
+
 
 ## Stats
 
