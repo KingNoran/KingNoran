@@ -8,8 +8,6 @@ I'm **King Noran**, an aspiring fullstack developer who's currently studying web
 
 I'm friends with **[@jeru07](https://github.com/jeru7)** and **[@dlanx6](https://github.com/dlanx6)**. Jeru is better than me... for now >:)
 
-<a href="https://app.daily.dev/nostra"><img src="https://api.daily.dev/devcards/v2/mgNlUrKYZ5oU5vPHa6Z5l.png?r=sh6&type=wide" width="100%" alt="Nostra's Dev Card"/></a>
-
 ## Languages and tools I use:
 <br>
 <img width="75" height="75" id="python-logo" src="https://github.com/KingNoran/KingNoran/assets/108130291/02797795-cac7-44fe-85fd-33af756b0f93" >
