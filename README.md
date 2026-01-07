@@ -22,10 +22,6 @@ I'm friends with **[@jeru07](https://github.com/jeru7)** and **[@dlanx6](https:/
 <img width="75" height="75" id="bootstrap=logo" src="https://github.com/KingNoran/KingNoran/assets/108130291/2eda48ea-1fc0-4ff5-8b9d-e44af7d88ffa" >
 <img width="75" height="75" id="vs-logo" src="https://github.com/KingNoran/KingNoran/assets/108130291/51ce0f46-7539-424b-a8c9-fbf6b093b0eb" >
 
-## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingNoran&show_icons=true&theme=gruvbox)
-
 ## I've completed:
 
 ### CS50!
