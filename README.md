@@ -32,7 +32,9 @@ I'm friends with **[@jeru07](https://github.com/jeru7)** and **[@dlanx6](https:/
 ![CS50x](https://github.com/KingNoran/KingNoran/assets/108130291/4e89b302-959e-47d7-90d0-3669d04c92dd)
 
 ## I've made:
+### [DocChain!](https://doc-chainv2.vercel.app/)
+![image](https://github.com/user-attachments/assets/a26a67df-d5b1-4301-98ed-83433f30eb9c)
 
-### [A Responsive eCalendar!](https://kingnoran.github.io/eCalendar/)
-![image](https://github.com/KingNoran/KingNoran/assets/108130291/8c43ed51-ac59-48c7-b43e-fbef63c7d54b)
+### [Chingu Dinosaur!](https://chingu-voyages.github.io/v48-tier1-team-01/)
+![image](https://github.com/user-attachments/assets/eca63eb0-93fe-4db2-ac1e-0d23b70d3234)
 
