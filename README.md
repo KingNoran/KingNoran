@@ -1,4 +1,4 @@
-### Current Status: Trying to strengthen my fundamentals in Data Structures and Algorithms. I'm planning to look for an internship this June!
+### Current Status: Trying to strengthen my fundamentals in Data Structures and Algorithms. Looking for an internship!
 
 ***
 
